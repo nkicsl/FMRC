@@ -1,5 +1,5 @@
 # CFC-Net & FMRC
-[![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC-ND](https://img.shields.io/badge/License-CC%20BY--NC--ND-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Model](https://img.shields.io/badge/Model-PRNet-green.svg)](#-model)
 [![Dataset](https://img.shields.io/badge/Dataset-PRAD-red.svg)](#-PRAD-Dataset)
 
