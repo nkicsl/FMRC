@@ -177,13 +177,20 @@ The data are provided for non-commercial research use only. Please follow the te
 The final BibTeX entry will be added after publication. Until then, please cite the manuscript by title:
 
 ```bibtex
-@misc{zhou2026cfcnet,
-  title  = {Cross-Frequency Collaborative Training for Robust Semi-supervised Segmentation in Endodontics and Beyond},
-  author = {Zhou, ZhenHuan and Zhang, Yuchen and He, Along and Wang, Peng and Li, Tao},
-  year   = {2026}
+@article{ZHOU2027124299,
+title = {Cross-frequency collaborative training for robust semi-supervised segmentation in endodontics and beyond},
+journal = {Information Sciences},
+volume = {763},
+pages = {124299},
+year = {2027},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.124299},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526012302},
+author = {Zhenhuan Zhou and Yuchen Zhang and Along He and Peng Wang and Tao Li},
+keywords = {Medical image segmentation, Dental CBCT dataset, Root canal, Semi-supervised learning}
 }
 ```
 
 ## License
 
-This project and the linked FMRC samples are intended for academic, non-commercial research. Commercial use is not permitted.
+This project and the linked FMRC samples are intended for academic, non-commercial research. Commercial use is not permitted. Copyright © College of Computer Science, Nankai University. All rights reserved.
