@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+
+# Model weights and training artefacts are intentionally excluded.
+*.pt
+*.pth
+*.ckpt
+*.onnx
+checkpoints/
+weights/
+model_data/
+logs/
+results/
+outputs/
+runs/
+
+# Datasets are not distributed in this repository.
+data/
+datasets/raw/
+datasets/processed/
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+*.nrrd
